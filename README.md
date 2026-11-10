@@ -1,6 +1,6 @@
 # War of Schedules and the Artificial Parrot 🦜⚔️
 
-![Ai Parrot Meme](images/AI-Parrot-meme.png)
+<img src="images/AI-Parrot-meme.png" alt="AI Parrot Meme" width="50%">
 The parrots have taken over, and their answer to every problem is AI. My mission? To challenge the flock, find the problems worth solving, and make sure we're using the right tools for the job.
 
 This repository documents my training at the [Artificial Intelligence Office, King Saud University](https://aio.ksu.edu.sa/en), where I was tasked with identifying potential AI use cases across the university and developing a prototype for one of them: an automated exam scheduler.
